@@ -2,6 +2,8 @@
 
 Contains utilities for using XML resources in Java unit tests.
 
+[![Build Status](https://travis-ci.org/hpautonomy/java-xml-test-utils.svg?branch=master)](https://travis-ci.org/hpautonomy/java-xml-test-utils)
+
 ## Usage
 java-xml-test-utils is available from the central Maven repository.
 
