@@ -14,8 +14,7 @@ java-xml-test-utils is available from the central Maven repository.
     </dependency>
 
 ## License
-Copyright 2014-2018 Micro Focus International plc.
-Copyright 2015-2018 Micro Focus International plc.
-Copyright 2017-2018 Micro Focus International plc.
+
+(c) Copyright 2014-2018 Micro Focus or one of its affiliates.
 
 Licensed under the MIT License (the "License"); you may not use this project except in compliance with the License.
