@@ -2,8 +2,6 @@
 
 Contains utilities for using XML resources in Java unit tests.
 
-[![Build Status](https://travis-ci.org/microfocus-idol/java-xml-test-utils.svg?branch=master)](https://travis-ci.org/microfocus-idol/java-xml-test-utils)
-
 ## Usage
 java-xml-test-utils is available from the central Maven repository.
 
@@ -15,6 +13,6 @@ java-xml-test-utils is available from the central Maven repository.
 
 ## License
 
-(c) Copyright 2014-2018 OpenText or one of its affiliates.
+Copyright 2014-2018 OpenText or one of its affiliates.
 
 Licensed under the MIT License (the "License"); you may not use this project except in compliance with the License.
