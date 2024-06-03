@@ -8,7 +8,7 @@ java-xml-test-utils is available from the central Maven repository.
     <dependency>
         <groupId>com.hp.autonomy.test.xml</groupId>
         <artifactId>xml-test-utils</artifactId>
-        <version>2.1.0</version>
+        <version>2.2.0-SNAPSHOT</version>
     </dependency>
 
 ## License
