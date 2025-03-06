@@ -3,13 +3,8 @@
 Contains utilities for using XML resources in Java unit tests.
 
 ## Usage
-java-xml-test-utils is available from the central Maven repository.
 
-    <dependency>
-        <groupId>com.hp.autonomy.test.xml</groupId>
-        <artifactId>xml-test-utils</artifactId>
-        <version>2.2.0-SNAPSHOT</version>
-    </dependency>
+java-xml-test-utils is available from the central Maven repository.
 
 ## License
 
